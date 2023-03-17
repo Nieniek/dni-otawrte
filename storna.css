@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(227,6,19);
+}
+
+h1{
+    font-family: "Amatic SC";
+    text-align: center;
+}
+.plan{
+    text-align: left;
+    font-family: "lato";
+    font-size: 20px;
+    color: #03295a;
+    padding: 10px;
+    
+}
+.szkola{
+    text-align: left;
+    float: left;
+    
+    
+
+
+}
+.data{
+    text-align: center;
+    font-family: "Amatic SC";
+    color: #03295a;
+    
+}
